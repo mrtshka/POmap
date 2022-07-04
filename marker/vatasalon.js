@@ -21,7 +21,7 @@ var vatasalon = {
         {
             "type": "Feature",
             "properties": {
-                "id": "АвтоВАЗ Салон",
+                "id": "Салон АвтоВАЗ",
                 "image_id": "9/9d/Snapshots_GTASA_Location_042"
             },
             "geometry": {
