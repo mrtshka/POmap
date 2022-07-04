@@ -2,12 +2,11 @@ function getPopupMedia(feature, list_id) {
     var html = document.createElement('div');
 
     if (feature.properties.image_id) {
-        var prefix = 'https://i.yapx.ru/';
+        var prefix = 'https://raw.githubusercontent.com/mrtshka/POmap/main/common/screens/';
         var suffix = '.jpg';
-        if (list_id == "horseshoes"
+        if (list_id == "test123"
             || list_id == "oysters") {
-            prefix = 'https://static.wikigta.org/en/images/';
-            suffix = '.JPG'
+            prefix = 'https://vk.com/';
         }
 
         var image_link = document.createElement('a');
