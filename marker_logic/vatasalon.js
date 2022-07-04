@@ -6,10 +6,14 @@ function addVatasalonLayer(map) {
         is_default: true,
         sidebar_icon_html: '<i class="fas fa-ruble-sign"></i>',
         pointToLayer: function (feature, latlng) {
+            if (feature.properties.radius) {
+                return L.circle(latlng, {
+                });
+            }
             return L.marker(latlng, {
-                icon: Utils.getCustomIcon('fas fa-warehouse'),
+                icon: Utils.getCustomIcon('fa-ruble-sign'),
                 riseOnHover: true
             });
-        }
+        },
     });
 }
