@@ -101,6 +101,54 @@ var myseum = {
         {
             "type": "Feature",
             "properties": {
+                "id": "Ангар Pirozhok",
+                "image_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    164.84375,
+                    -168.53125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "Ангар Pirozhok",
+                "image_id": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            165.03125,
+                            -167
+                        ],
+                        [
+                            166.2578125,
+                            -168.4453125
+                        ],
+                        [
+                            164.625,
+                            -170.15625
+                        ],
+                        [
+                            163.53125,
+                            -168.6796875
+                        ],
+                        [
+                            165.03125,
+                            -167
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "Автостоянка Pirozhok",
                 "image_id": "pirozhok"
             },
@@ -195,7 +243,54 @@ var myseum = {
             }
         },
         {
-
+            "type": "Feature",
+            "properties": {
+                "id": "Автостоянка Erjan Motorsport™",
+                "image_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    150.31640625,
+                    -164.1953125
+                ]
+            }
+        },
+                {
+            "type": "Feature",
+            "properties": {
+                "id": "Автостоянка Erjan Motorsport™",
+                "image_id": ""
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            149.93359375,
+                            -163.828125
+                        ],
+                        [
+                            149.93359375,
+                            -164.65625
+                        ],
+                        [
+                            150.546875,
+                            -164.65625
+                        ],
+                        [
+                            150.546875,
+                            -163.828125
+                        ],
+                        [
+                            149.93359375,
+                            -163.828125
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка JlEB 3A6P0B romuk",
@@ -205,7 +300,7 @@ var myseum = {
                 "type": "Point",
                 "coordinates": [
                     119.140625,
-                    -142.6875
+                   -142.6875
                 ]
             }
         },
