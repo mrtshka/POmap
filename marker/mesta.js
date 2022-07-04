@@ -41,8 +41,8 @@ var mesta = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    175.5625,
-                    -120.75
+                    171.1875,
+                    -116.765625
 
                ]
             }
@@ -59,6 +59,21 @@ var mesta = {
                     172.28125,
                     -64.25
                 ]
+            }
+        },
+         {
+            "type": "Feature",
+            "properties": {
+                "id": "Кладбище АВК",
+                "image_id": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    169.171875,
+                    -123.1875
+
+               ]
             }
         },
         {
