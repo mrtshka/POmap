@@ -8,7 +8,7 @@ var gsk = {
             "type": "Feature",
             "properties": {
                 "id": "Блюберриевский ГСК",
-                "image_id": "SqzWO"
+                "image_id": "gsk-blb"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,7 @@ var gsk = {
             "type": "Feature",
             "properties": {
                 "id": "Гандоновский ГСК",
-                "image_id": "7/77/Snapshots_GTASA_Location_009"
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +36,7 @@ var gsk = {
             "type": "Feature",
             "properties": {
                 "id": "Подлоссрантовский ГСК",
-                "image_id": "9/9d/Snapshots_GTASA_Location_043"
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,7 @@ var gsk = {
             "type": "Feature",
             "properties": {
                 "id": "Ангелпайновский ГСК",
-                "image_id": "SqzWQ"
+                "image_id": "gsk-agp"
             },
             "geometry": {
                 "type": "Point",
@@ -65,7 +65,7 @@ var gsk = {
             "type": "Feature",
             "properties": {
                 "id": "Вентуровский ГСК",
-                "image_id": "SqzJF"
+                "image_id": "gsk-lv"
             },
             "geometry": {
                 "type": "Point",
