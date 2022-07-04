@@ -122,7 +122,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Бар в Глуши",
-                "image_id": ""
+                "image_id": "barclu"
             },
             "geometry": {
                 "type": "Point",
