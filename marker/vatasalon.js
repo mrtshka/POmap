@@ -22,7 +22,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Салон АвтоВАЗ",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +36,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Автосалон ЗАЗ/СеАЗ",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +92,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Ангелпайновская митолоприемка",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
