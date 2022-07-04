@@ -245,7 +245,7 @@ var myseum = {
         {
             "type": "Feature",
             "properties": {
-                "id": "Автостоянка Erjan Motorsport™",
+                "id": "Сервис Erjan Motorsport™",
                 "image_id": ""
             },
             "geometry": {
@@ -259,7 +259,7 @@ var myseum = {
                 {
             "type": "Feature",
             "properties": {
-                "id": "Автостоянка Erjan Motorsport™",
+                "id": "Сервис Erjan Motorsport™",
                 "image_id": ""
             },
             "geometry": {
