@@ -41,8 +41,8 @@ var mesta = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    33.4375,
-                    -162.3125
+                    64.484375,
+                    -150.421875
                 ]
             }
         },
