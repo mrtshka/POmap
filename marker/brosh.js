@@ -24,8 +24,8 @@ var brosh = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    164.484375,
-                    -6.109375
+                    165.953125,
+                   -5.875
                 ]
             }
         },
