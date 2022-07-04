@@ -8,7 +8,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Ватасалон «Пазний Моторс»",
-                "image_id": "SqzSP"
+                "image_id": "glavsalon"
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Салон АвтоВАЗ",
-                "image_id": "9/9d/Snapshots_GTASA_Location_042"
+                "image_id": " "
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +36,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Автосалон ЗАЗ/СеАЗ",
-                "image_id": "9/9d/Snapshots_GTASA_Location_042"
+                "image_id": " "
             },
             "geometry": {
                 "type": "Point",
@@ -50,7 +50,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Автоцентр ГАЗ",
-                "image_id": "SqzPQ"
+                "image_id": "gaz"
             },
             "geometry": {
                 "type": "Point",
@@ -64,7 +64,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Донат-салон",
-                "image_id": "SqzUg"
+                "image_id": "donat-phod"
             },
             "geometry": {
                 "type": "Point",
@@ -78,7 +78,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Рынок импортных и реэкспортных авто",
-                "image_id": "SqzPR"
+                "image_id": "export"
             },
             "geometry": {
                 "type": "Point",
@@ -92,7 +92,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Ангелпайновская митолоприемка",
-                "image_id": "SqzPaR"
+                "image_id": " "
             },
             "geometry": {
                 "type": "Point",
@@ -106,7 +106,7 @@ var vatasalon = {
             "type": "Feature",
             "properties": {
                 "id": "Расширение мест под раритеты",
-                "image_id": "SqzWN"
+                "image_id": "center-sf"
             },
             "geometry": {
                 "type": "Point",
