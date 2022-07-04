@@ -174,7 +174,7 @@ var geomap = {
             "type": "Feature",
             "properties": {
                 "id": "д. Владимировка",
-                "image_id": "SryyW"
+                "image_id": "vladimirk2"
             },
             "geometry": {
                 "type": "Point",
