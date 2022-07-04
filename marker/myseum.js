@@ -5,7 +5,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка Willkozz",
-                "image_id": "SqzLE"
+                "image_id": "markp"
             },
             "geometry": {
                 "type": "Point",
@@ -19,7 +19,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка Willkozz",
-                "image_id": "SqzLE"
+                "image_id": "markp"
             },
             "geometry": {
                 "type": "Polygon",
@@ -54,7 +54,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка Jan_Jajak",
-                "image_id": "SqzND"
+                "image_id": "jajakp"
             },
             "geometry": {
                 "type": "Point",
@@ -68,7 +68,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка Jan_Jajak",
-                "image_id": "SqzND"
+                "image_id": "jajakp"
             },
             "geometry": {
                 "type": "Polygon",
@@ -102,7 +102,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка Pirozhok",
-                "image_id": "SqzFv"
+                "image_id": "pirozhok"
             },
             "geometry": {
                 "type": "Point",
@@ -116,7 +116,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка Pirozhok",
-                "image_id": "SqzFv"
+                "image_id": "pirozhok"
             },
             "geometry": {
                 "type": "Polygon",
@@ -150,7 +150,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка A3otuk",
-                "image_id": "SqzRK"
+                "image_id": "ashotp"
             },
             "geometry": {
                 "type": "Point",
@@ -164,7 +164,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка A3otuk",
-                "image_id": "SqzRK"
+                "image_id": "ashotp"
             },
             "geometry": {
                 "type": "Polygon",
@@ -199,7 +199,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка JlEB 3A6P0B romuk",
-                "image_id": "SryvK"
+                "image_id": "moep"
             },
             "geometry": {
                 "type": "Point",
@@ -213,7 +213,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка JlEB 3A6P0B romuk",
-                "image_id": "SryvK"
+                "image_id": "moep"
             },
             "geometry": {
                 "type": "Polygon",
@@ -248,7 +248,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка whocares",
-                "image_id": "SryvJ"
+                "image_id": "whocares"
             },
             "geometry": {
                 "type": "Point",
@@ -262,7 +262,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка whocares",
-                "image_id": "SryvJ"
+                "image_id": "whocares"
             },
             "geometry": {
                 "type": "Polygon",
