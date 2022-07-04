@@ -8,7 +8,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Маргинальный гараж",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -22,7 +22,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Трасса для триала",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -80,7 +80,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Рынок дитолей",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -94,7 +94,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Мовильная фабрика",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -108,7 +108,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Бар в Глуши",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -122,7 +122,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Трасса для триала в болоте",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -136,7 +136,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Автобусный парк",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -150,7 +150,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Завод ОЗЛЦ",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
@@ -164,7 +164,7 @@ var mesta = {
              "type": "Feature",
             "properties": {
                 "id": "Гора Акиновка",
-                "image_id": " "
+                "image_id": ""
             },
             "geometry": {
                 "type": "Point",
