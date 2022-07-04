@@ -4,9 +4,9 @@ function getPopupMedia(feature, list_id) {
     if (feature.properties.image_id) {
         var prefix = 'https://raw.githubusercontent.com/mrtshka/POmap/main/common/screens/';
         var suffix = '.jpg';
-        if (list_id == "test123"
+        if (list_id == "brosh"
             || list_id == "oysters") {
-            prefix = 'https://vk.com/';
+            prefix = 'https://raw.githubusercontent.com/mrtshka/POmap/main/common/screens/brosh/';
         }
 
         var image_link = document.createElement('a');
