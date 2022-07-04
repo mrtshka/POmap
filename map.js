@@ -23,5 +23,6 @@ addGskLayer(interactive_map);
 addVatasalonLayer(interactive_map);
 addGeomapLayer(interactive_map);
 addMestaLayer(interactive_map);
+addBroshLayer(interactive_map);
 
 interactive_map.finalize();
