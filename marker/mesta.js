@@ -113,8 +113,8 @@ var mesta = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    91.09375,
-                    -157.046875
+                    91.5,
+                    -162.75
                 ]
             }
         },
@@ -148,6 +148,20 @@ var mesta = {
         },
         {
             "type": "Feature",
+            "properties": {
+                "id": "Завод ОЗЛЦ",
+                "image_id": " "
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5625,
+                   -88.9375
+                ]
+            }
+        },
+        {
+             "type": "Feature",
             "properties": {
                 "id": "Гора Акиновка",
                 "image_id": " "
