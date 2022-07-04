@@ -35,6 +35,20 @@ var mesta = {
         {
             "type": "Feature",
             "properties": {
+                "id": "Пиццерия «Татмак»",
+                "image_id": "tatmak"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.4375,
+                    -162.3125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "id": "К.Л.У.Б.",
                 "image_id": "club"
             },
