@@ -198,7 +198,7 @@ var myseum = {
             "type": "Feature",
             "properties": {
                 "id": "Автостоянка A3otuk",
-                "image_id": "ashotp"
+                "image_id": "ashotp2"
             },
             "geometry": {
                 "type": "Point",
