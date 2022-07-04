@@ -22,7 +22,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Трасса для триала",
-                "image_id": "7/77/Snapshots_GTASA_Location_009"
+                "image_id": " "
             },
             "geometry": {
                 "type": "Point",
@@ -36,7 +36,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "К.Л.У.Б.",
-                "image_id": "SryyV"
+                "image_id": "club"
             },
             "geometry": {
                 "type": "Point",
@@ -51,7 +51,7 @@ var mesta = {
             "type": "Feature",
             "properties": {
                 "id": "Мовиль Плаза",
-                "image_id": " "
+                "image_id": "movilplaza"
             },
             "geometry": {
                 "type": "Point",
