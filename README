@@ -1,3 +1,10 @@
 Интерактивый атлас Пазней Области
-
 Творческий проект для творческого и сгинувшего проекта
+
+Использованы наработки:
+Leaflet под BSD2.
+Leaflet.markercluster под MIT.
+Leaflet.FeatureGroup.SubGroup под BSD2.
+leaflet-sidebar-v2 под MIT.
+Leaflet-Geoman под MIT.
+Иконки Font Awesome под CCA4.
