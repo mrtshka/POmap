@@ -1,7 +1,7 @@
-** Интерактивый атлас Пазней Области **
-Творческий проект для творческого (и сгинувшего) проекта
+**Интерактивый атлас Пазней Области**
+## Творческий проект для творческого (и сгинувшего) проекта
 
-** Использованы наработки: **
+**Использованы наработки:**
 База интерактивной карты от [interactive-game-maps](https://github.com/interactive-game-maps/grand_theft_auto_san_andreas).
 [Leaflet](https://github.com/Leaflet/Leaflet) под [BSD2](https://github.com/Leaflet/Leaflet/blob/ee71642691c2c71605bacff69456760cfbc80a2a/LICENSE).
 [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) под [MIT](https://github.com/Leaflet/Leaflet.markercluster/blob/31360f226e1a40c03c71d68b016891beb5e63370/MIT-LICENCE.txt).
