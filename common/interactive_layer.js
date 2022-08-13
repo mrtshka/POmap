@@ -416,7 +416,7 @@ class InteractiveLayer {
                 var label = document.createElement('label');
                 label.className = 'popup-checkbox is-fullwidth';
 
-                var label_text = document.createTextNode('Hide this marker');
+                var label_text = document.createTextNode('Скрыть метку');
 
                 var checkbox = document.createElement('input');
                 checkbox.type = 'checkbox';
